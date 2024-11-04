@@ -9,6 +9,8 @@
 
 <p>I’m always excited to collaborate on meaningful projects and learn new technologies.</p>
 
+[![An image of @reyansh8104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reyansh8104)](https://holopin.io/@reyansh8104)
+
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p>
@@ -34,7 +36,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 </p>
 
-[![An image of @reyansh8104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reyansh8104)](https://holopin.io/@reyansh8104)
+
 
 <h2>⚡️ Where to Find Me</h2>
 

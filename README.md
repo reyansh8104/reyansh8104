@@ -47,5 +47,12 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=reyansh8104&show_icons=true&locale=en" alt="reyansh8104" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyansh8104&" alt="reyansh8104" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyansh8104" alt="reyansh8104" /></a></p>
+
+
+## My trophies:
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reyansh8104" alt="reyansh8104" />
+  </a>
+</p>

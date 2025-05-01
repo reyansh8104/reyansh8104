@@ -2,10 +2,9 @@
 
 <p>A third-year B.Tech student at KIET Group of Institutions with a passion for technology and hands-on learning. My skills and interests span:</p>
 
-- 🌐 **Web Development**: Building dynamic and responsive websites  
-- 🔒 **Cybersecurity**: Exploring secure coding practices and defensive strategies  
+- 📊 **Data Analytics**: A passionate learner exploring data-driven insights through visualization, statistics, and storytelling 
+- 🌐 **Web Development**: Building dynamic and responsive websites   
 - 🐍 **Python Development**: Writing efficient scripts and applications  
-- ☁️ **Cloud Computing**: A beginner, eager to expand my knowledge in cloud infrastructure and services  
 
 <p>I’m always excited to collaborate on meaningful projects and learn new technologies.</p>
 

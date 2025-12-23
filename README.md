@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Reyansh Kaushik</h1>
 
-<p>A third-year B.Tech student at KIET Group of Institutions with a passion for technology and hands-on learning. My skills and interests span:</p>
+<p>Full-stack developer and data analyst with strong problem-solving skills and practical project experience. My skills and interests span:</p>
 
-- 📊 **Data Analytics**: A passionate learner exploring data-driven insights through visualization, statistics, and storytelling 
-- 🌐 **Web Development**: Building dynamic and responsive websites   
-- 🐍 **Python Development**: Writing efficient scripts and applications  
+- 🌐 **Full-Stack Development (MERN)**: Building scalable, responsive web applications from frontend to backend
+- 📊 **Data Analytics**: Extracting insights through SQL, Python, visualization, and clear data storytelling  
+- 🐍 **Python Development**: Writing efficient scripts, APIs, and data-driven applications
 
 <p>I’m always excited to collaborate on meaningful projects and learn new technologies.</p>
 
